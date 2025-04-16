@@ -1,1 +1,2 @@
 # Single-Cycle-RISC-CPU
+This project features a single cycle 32-bit RISC-V CPU that supports a subset of the RV32I instruction set. Written in Verilog, the CPU executes one instruction per clock cycle using a straightforward datapath with components like the ALU, register file, instruction memory, data memory, and control logic. It handles basic arithmetic, immediate, load/store, and branch instructions. The design is aligned with the RV32I base specification and is ideal for learning purposes or future enhancements.
